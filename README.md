@@ -19,7 +19,7 @@ Specifically, in the data folder you will find zipped csv dataset with the follo
 
 What we expect you to do: 
 * Come up with some solution with relevant control group selection
-* Make an estimation of uplift in terms of two metrics of interest (rev_post, profit_post) and statistical significance 
+* Make an estimation of uplift in terms of two metrics of interest (rev_post, profit_post) and its statistical significance 
 * Wrap up your solution as reproducible code in jupyter notebook and concluding part with short summary of your results
 
 Hope you will enjoy the task ;) 
