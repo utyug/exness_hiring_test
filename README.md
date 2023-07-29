@@ -1,6 +1,6 @@
 Hello there!
 
-If you are going to join our team of reseachers and analysts at Trading Division of Exness we have a test task for you here.
+If you are going to join our team of researchers and analysts at Trading Division of Exness we have a test task for you here.
 
 The task is the following. Suppose you collegues developed some cool feature and conducted an A/B test for a group of clients. But unfortunetely they lost the information about control group clients ;) Your goal is to help them with post analysis of the test results. 
 
