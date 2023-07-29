@@ -15,6 +15,7 @@ Specifically, in the data folder you will find zipped csv dataset with the follo
 * `rev_post` - revenue collected for some fixed period (630 days) after the test launching date
 * `profit_pre` - profit collected for some fixed period (90 days) before the test launching date
 * `profit_post` - profit collected for some fixed period (630 days) after the test launching date
+* `is_test` - flag indicator for clients included in test group 
 
 What we expect you to do: 
 * Come up with some solution with relevant control group selection
